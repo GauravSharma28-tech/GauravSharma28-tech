@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">I am cyber security analyst</h3>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg">
+
 
 - 🌱 I’m currently learning **Cyber analyst**
 
